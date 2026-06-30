@@ -1,4 +1,4 @@
-# Proyecto_Mate: Matemática Discreta - Ruta Óptima en Auto (India) 🚗
+# Proyecto_Mate: Matemática Discreta - Ruta Óptima en Auto (India) 
 Proyecto de Matemática Discreta: Cálculo de ruta óptima entre ciudades mediante un grafo ponderado en Python.
 
 **Integrante:** Bernardo Sandoval Cordova
